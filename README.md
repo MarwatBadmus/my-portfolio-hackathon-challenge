@@ -9,7 +9,7 @@ It features a responsive, beginner-friendly personal portfolio website created u
 ## 🔗 Live Demo
 
 You can view the live portfolio here:  
-👉 [https://MarwatBadmus.github.io/portfolio-challenge/](https://MarwatBadmus.github.io/portfolio-challenge/)  
+👉 [https://marwatBadmus.github.io/portfolio-challenge/](https://marwatBadmus.github.io/portfolio-challenge/)  
 
 ---
 
@@ -64,7 +64,7 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 ## 📬 Contact
 
-You can reach me through the [contact form on the website](https://MarwatBadmus.github.io/portfolio-challenge/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/marwat-d-badmus-b13787376).
+You can reach me through the [contact form on the website](https://marwatBadmus.github.io/portfolio-challenge/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/marwat-d-badmus-b13787376).
 
 ---
 
