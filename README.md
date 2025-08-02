@@ -38,11 +38,11 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 ## 💡 Interests
 
-- Web Development & Cybersecurity  
-- Academic Writing & Research  
-- Graphic design  
-- Tech for Social Impact  
-- Networking & Community Collaboration
+- Technical and academic writing  
+- Graphic designh  
+- Website development  
+- Cybersecurity awareness  
+- Healthcare
 
 ---
 
