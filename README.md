@@ -9,8 +9,7 @@ It features a responsive, beginner-friendly personal portfolio website created u
 ## 🔗 Live Demo
 
 You can view the live portfolio here:  
-👉 [https://yourusername.github.io/portfolio-challenge/](https://yourusername.github.io/portfolio-challenge/)  
-*(Replace this link with your actual GitHub Pages link)*
+👉 [https://MarwatBadmus.github.io/portfolio-challenge/](https://MarwatBadmus.github.io/portfolio-challenge/)  
 
 ---
 
@@ -23,17 +22,17 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3
+- CSS
 
 ---
 
 ## 🎓 Educational Background
 
-- **B.Sc. Biochemistry** — Kwara State University, First Class Honours (2023)  
-- **Cyber Threat Management** — Cisco Networking Academy (2024)  
-- **Software Development (Ongoing)** — Power Learn Project  
-- **Soft Skills Training** — LSETF (2025)  
-- **Community Development Certificate** — KWASU CCD (2023)
+- **B.Sc. Biochemistry** — Kwara State University, First Class Honours (2023)
+- **Community Development Certificate** — KWASU CCD (2023) 
+- **Cyber Threat Management** — Cisco Networking Academy (2024)   
+- **Soft Skills Training** — LSETF (2025)
+- **Software Development (Ongoing)** — Power Learn Project 
 
 ---
 
@@ -41,7 +40,7 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 - Web Development & Cybersecurity  
 - Academic Writing & Research  
-- Creative Design & Visual Communication  
+- Graphic design  
 - Tech for Social Impact  
 - Networking & Community Collaboration
 
@@ -51,7 +50,7 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 - **Personal Portfolio Website** — A responsive personal website showcasing my skills, education, and contact form.  
 - **Python Mini Calculator** — A basic calculator built during early Python learning.  
-- **Cybersecurity Awareness Page** — A short HTML project summarizing core takeaways from my Cisco course.
+- **The Art of Making Jollof Rice** — A simple webpage built for HTML assignment
 
 *(See the full portfolio site for live links.)*
 
@@ -59,14 +58,13 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 ## 📄 Download My CV
 
-[Click here to download my CV](https://yourusername.github.io/portfolio-challenge/assets/resume.pdf)  
-*(Update the link if your path or file name is different)*
+[Click here to download my CV](https://MarwatBadmus.github.io/portfolio-challenge/assets/resume.pdf)  
 
 ---
 
 ## 📬 Contact
 
-You can reach me through the [contact form on the website](https://yourusername.github.io/portfolio-challenge/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/marwat-d-badmus-b13787376).
+You can reach me through the [contact form on the website](https://MarwatBadmus.github.io/portfolio-challenge/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/marwat-d-badmus-b13787376).
 
 ---
 
