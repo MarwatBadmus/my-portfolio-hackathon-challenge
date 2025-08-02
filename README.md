@@ -28,11 +28,11 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 ## 🎓 Educational Background
 
-- **B.Sc. Biochemistry** — Kwara State University, First Class Honours (2023)
-- **Community Development Certificate** — KWASU CCD (2023) 
-- **Cyber Threat Management** — Cisco Networking Academy (2024)   
-- **Soft Skills Training** — LSETF (2025)
-- **Software Development (Ongoing)** — Power Learn Project 
+- **B.Sc. Biochemistry** : Kwara State University, First Class Honours (2023)
+- **Community Development Certificate** : KWASU CCD (2023) 
+- **Cyber Threat Management** : Cisco Networking Academy (2024)   
+- **Soft Skills Training** : LSETF (2025)
+- **Software Development (Ongoing)** : Power Learn Project 
 
 ---
 
@@ -48,9 +48,9 @@ I’m Marwat Dawotola Badmus, a First-Class graduate of Biochemistry from Kwara 
 
 ## 💼 Featured Projects
 
-- **Personal Portfolio Website** — A responsive personal website showcasing my skills, education, and contact form.  
-- **Python Mini Calculator** — A basic calculator built during early Python learning.  
-- **The Art of Making Jollof Rice** — A simple webpage built for HTML assignment
+- **Personal Portfolio Website** : A responsive personal website showcasing my skills, education, and contact form.  
+- **Python Mini Calculator** : A basic calculator built during early Python learning.  
+- **The Art of Making Jollof Rice** : A simple webpage built for HTML assignment
 
 *(See the full portfolio site for live links.)*
 
